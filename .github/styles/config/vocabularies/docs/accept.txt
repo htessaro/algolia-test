@@ -1,0 +1,84 @@
+Docusaurus
+Transpara
+Netlify
+KPIs
+KPI's
+Heitor
+branch_name
+subpages
+Watchlist
+Ad Hoc
+Hoc
+Geo Maps
+Geo Map
+tooltips
+tooltip
+Extron
+High High High
+High High
+KPY Map
+KPY Maps
+lookups
+timeperiod
+Pharma
+OSIsoft
+Proficy
+[Ss]parkline
+Exton
+Gantt
+sitewide
+Unselect
+pulldown
+timeseries
+downsampled
+stddev
+twavg
+separe
+APIs
+datetime
+lupd
+Parameterizing
+sprocs
+sproc
+PIServer
+SQLServer
+serveradmin
+setupadmin
+interfacePrerequisites
+designerPrerequisites
+serverPrerequisites
+Interop
+linkTo
+tStore
+XYPlots
+inmation
+7690d
+994d
+unchecked
+Config
+pre
+VMware
+Xompass
+Zabbix
+RCSs
+productized
+support@transpara.com
+SLAs
+Aspentech
+Timestream
+Modbus
+Splunk
+telco
+Nordstrom
+Zappos
+Seeq
+architected
+Yokogawa
+Cognite
+SQLuser
+projectware
+picosecond
+lossy
+inmation
+walkthrough
+toolset
