@@ -8,7 +8,7 @@ const darkTheme = themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   themes: [
-    [
+    /*[
       require.resolve("@easyops-cn/docusaurus-search-local"),
       ({
         // ... Your options.
@@ -20,7 +20,7 @@ const config = {
         // language: ["en", "zh"],
         // ```
       }),
-    ],
+    ],*/
   ],
   plugins: [
     // [
@@ -128,6 +128,19 @@ const config = {
           // hideable: true,
           autoCollapseCategories: true,
         },
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'RRNFMCSZV0',
+  
+        // Public API key: it is safe to commit it
+        apiKey: '1e287675c86eb918b12ebb3081eadbff',
+  
+        indexName: 'doc_',
+  
+        // Optional: see doc section below
+        contextualSearch: true,
+
       },
       zoom: {
         selector: '.markdown :not(em) > img',
