@@ -1,5 +1,5 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://main--transpara-docs.netlify.app/sitemap.xml
+Sitemap: https://test-algolia-transpara.netlify.app/sitemap.xml
 # Algolia-Crawler-Verif: BDB50D48D46AA6F4
